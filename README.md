@@ -1,12 +1,16 @@
 <!--
 **wesjrock/wesjrock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+##
+
 ### My stats so far:
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/wesjrock">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesjrock&layout=compact&langs_count=16&theme=dracula" />
 </div>
+
+##
 
 ### My toolbox:
   
@@ -20,6 +24,8 @@
   <img allign="center" alt="css-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
   <img allign="center" alt="css-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </div>
+
+##
 
 ### How to reach me:
 
