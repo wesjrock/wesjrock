@@ -1,14 +1,5 @@
 ##
 
-### My stats so far:
-
-<div style="display: inline_block"><br>
-  <a href="https://github.com/wesjrock">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesjrock&layout=compact&langs_count=16&theme=dracula" />
-</div>
-
-##
-
 ### My toolbox:
   
 <div style="display: inline_block"><br>
