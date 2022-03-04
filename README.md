@@ -1,5 +1,5 @@
 ## Hello there, I'm Wesley!
-I am graduated in Computer Science (USP - ICMC) and now I'm focusing my career towards Frontend Web Development.
+I am graduated in Computer Science (USP - ICMC) and now I'm focusing my career towards Frontend Development.
 
 ##
 
