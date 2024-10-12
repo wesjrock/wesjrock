@@ -1,5 +1,5 @@
 ## Hello there, I'm Wesley!
-I am graduated in Computer Science (USP - ICMC) and now I'm focusing my career towards Frontend Development (VuejS).
+I've graduated in Computer Science at University of Sao Paulo and now I'm focusing my career towards full stack web development.
 
 ##
 
